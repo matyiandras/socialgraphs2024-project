@@ -1,0 +1,1245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-14">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="party" type="string" />
+      <attribute id="1" title="president" type="boolean" />
+      <attribute id="2" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Adlai Stevenson" label="Adlai Stevenson">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Al Smith" label="Al Smith">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Albert Gore, Jr." label="Albert Gore, Jr.">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Alf Landon" label="Alf Landon">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Barack Obama" label="Barack Obama">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Barry Goldwater" label="Barry Goldwater">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bernie Sanders" label="Bernie Sanders">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Bill Richardson" label="Bill Richardson">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Calvin Coolidge" label="Calvin Coolidge">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Christopher Dodd" label="Christopher Dodd">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Deval Patrick" label="Deval Patrick">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Donald J. Trump (1st Term)" label="Donald J. Trump (1st Term)">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Donald J. Trump (2nd Term)" label="Donald J. Trump (2nd Term)">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Dwight D. Eisenhower" label="Dwight D. Eisenhower">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Elizabeth Warren" label="Elizabeth Warren">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Eric Swalwell" label="Eric Swalwell">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Franklin D. Roosevelt" label="Franklin D. Roosevelt">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fred Thompson" label="Fred Thompson">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="George Bush" label="George Bush">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="George McGovern" label="George McGovern">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="George W. Bush" label="George W. Bush">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Gerald R. Ford" label="Gerald R. Ford">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Grover Cleveland" label="Grover Cleveland">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="H. Ross Perot" label="H. Ross Perot">
+        <attvalues>
+          <attvalue for="0" value="Independent" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Harry S Truman" label="Harry S Truman">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Herbert Hoover" label="Herbert Hoover">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Herman Cain" label="Herman Cain">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Hillary Clinton" label="Hillary Clinton">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Hubert H. Humphrey" label="Hubert H. Humphrey">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="J.D. Vance" label="J.D. Vance">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Jack Kemp" label="Jack Kemp">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="James M. Cox" label="James M. Cox">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jeb Bush" label="Jeb Bush">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Jimmy Carter" label="Jimmy Carter">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="John Edwards" label="John Edwards">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="John F. Kennedy" label="John F. Kennedy">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="John F. Kerry" label="John F. Kerry">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="John McCain" label="John McCain">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="John W. Davis" label="John W. Davis">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jon Huntsman" label="Jon Huntsman">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Joseph Lieberman" label="Joseph Lieberman">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Joseph R. Biden, Jr." label="Joseph R. Biden, Jr.">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Kamala Harris" label="Kamala Harris">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Kirsten Gillibrand" label="Kirsten Gillibrand">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Lincoln Chafee" label="Lincoln Chafee">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Lyndon B. Johnson" label="Lyndon B. Johnson">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Marco Rubio" label="Marco Rubio">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Martin O'Malley" label="Martin O'Malley">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Michael Bloomberg" label="Michael Bloomberg">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Michael S. Dukakis" label="Michael S. Dukakis">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Michele Bachmann" label="Michele Bachmann">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Michelle Obama" label="Michelle Obama">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Mike Pence" label="Mike Pence">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Mitt Romney" label="Mitt Romney">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Newt Gingrich" label="Newt Gingrich">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Nikki Haley" label="Nikki Haley">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Patrick J. Buchanan" label="Patrick J. Buchanan">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Paul Ryan" label="Paul Ryan">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Rand Paul" label="Rand Paul">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="38" />
+        </attvalues>
+      </node>
+      <node id="Richard B. Cheney" label="Richard B. Cheney">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Richard Nixon" label="Richard Nixon">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rick Perry" label="Rick Perry">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Rick Santorum" label="Rick Santorum">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Robert Dole" label="Robert Dole">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Ron DeSantis" label="Ron DeSantis">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Ron Paul" label="Ron Paul">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="38" />
+        </attvalues>
+      </node>
+      <node id="Ronald Reagan" label="Ronald Reagan">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sarah Palin" label="Sarah Palin">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Scott Walker" label="Scott Walker">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Theodore Roosevelt" label="Theodore Roosevelt">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Thomas Dewey" label="Thomas Dewey">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tim Kaine" label="Tim Kaine">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Tim Pawlenty" label="Tim Pawlenty">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Tim Ryan" label="Tim Ryan">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Tim Scott" label="Tim Scott">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Tim Walz" label="Tim Walz">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Walter F. Mondale" label="Walter F. Mondale">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Warren G. Harding" label="Warren G. Harding">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Wendell Willkie" label="Wendell Willkie">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="false" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="William Howard Taft" label="William Howard Taft">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="William J. Clinton" label="William J. Clinton">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="William McKinley" label="William McKinley">
+        <attvalues>
+          <attvalue for="0" value="Republican" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Woodrow Wilson" label="Woodrow Wilson">
+        <attvalues>
+          <attvalue for="0" value="Democratic" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Adlai Stevenson" target="Al Smith" id="0" weight="0.42405481892789343" />
+      <edge source="Adlai Stevenson" target="Albert Gore, Jr." id="1" weight="0.4118895127997945" />
+      <edge source="Adlai Stevenson" target="Barack Obama" id="2" weight="0.40978691246339816" />
+      <edge source="Adlai Stevenson" target="Barry Goldwater" id="3" weight="0.44397076742932867" />
+      <edge source="Adlai Stevenson" target="Dwight D. Eisenhower" id="4" weight="0.5083197551209917" />
+      <edge source="Adlai Stevenson" target="Franklin D. Roosevelt" id="5" weight="0.43964281418448803" />
+      <edge source="Adlai Stevenson" target="George Bush" id="6" weight="0.4198258395693581" />
+      <edge source="Adlai Stevenson" target="George McGovern" id="7" weight="0.430925190809741" />
+      <edge source="Adlai Stevenson" target="George W. Bush" id="8" weight="0.4623983259524946" />
+      <edge source="Adlai Stevenson" target="Gerald R. Ford" id="9" weight="0.433052978132732" />
+      <edge source="Adlai Stevenson" target="Hubert H. Humphrey" id="10" weight="0.5298086231270727" />
+      <edge source="Adlai Stevenson" target="John F. Kennedy" id="11" weight="0.4783755504907633" />
+      <edge source="Adlai Stevenson" target="John F. Kerry" id="12" weight="0.44746414441492643" />
+      <edge source="Adlai Stevenson" target="John W. Davis" id="13" weight="0.4012860819968427" />
+      <edge source="Adlai Stevenson" target="Lyndon B. Johnson" id="14" weight="0.5033818093612092" />
+      <edge source="Adlai Stevenson" target="Martin O'Malley" id="15" weight="0.4265443189906761" />
+      <edge source="Adlai Stevenson" target="Richard Nixon" id="16" weight="0.5505182447751846" />
+      <edge source="Adlai Stevenson" target="Ronald Reagan" id="17" weight="0.5023217595601015" />
+      <edge source="Adlai Stevenson" target="Thomas Dewey" id="18" weight="0.4585648785652882" />
+      <edge source="Adlai Stevenson" target="Walter F. Mondale" id="19" weight="0.4320788999205353" />
+      <edge source="Adlai Stevenson" target="Wendell Willkie" id="20" weight="0.4697147924844795" />
+      <edge source="Adlai Stevenson" target="William J. Clinton" id="21" weight="0.445400898187265" />
+      <edge source="Al Smith" target="Alf Landon" id="22" weight="0.5500625855808412" />
+      <edge source="Al Smith" target="Calvin Coolidge" id="23" weight="0.5027933847551859" />
+      <edge source="Al Smith" target="Dwight D. Eisenhower" id="24" weight="0.4469403978155643" />
+      <edge source="Al Smith" target="Elizabeth Warren" id="25" weight="0.4009256896314689" />
+      <edge source="Al Smith" target="Franklin D. Roosevelt" id="26" weight="0.6702914059149793" />
+      <edge source="Al Smith" target="Grover Cleveland" id="27" weight="0.40347942085983185" />
+      <edge source="Al Smith" target="Harry S Truman" id="28" weight="0.40937315843277916" />
+      <edge source="Al Smith" target="Herbert Hoover" id="29" weight="0.6017496333222231" />
+      <edge source="Al Smith" target="James M. Cox" id="30" weight="0.49290383849846037" />
+      <edge source="Al Smith" target="Jimmy Carter" id="31" weight="0.4715621783261883" />
+      <edge source="Al Smith" target="John F. Kennedy" id="32" weight="0.500821835329948" />
+      <edge source="Al Smith" target="John W. Davis" id="33" weight="0.5312746942192398" />
+      <edge source="Al Smith" target="Lyndon B. Johnson" id="34" weight="0.4252170832997389" />
+      <edge source="Al Smith" target="Martin O'Malley" id="35" weight="0.43915261775485476" />
+      <edge source="Al Smith" target="Richard Nixon" id="36" weight="0.4509165011832335" />
+      <edge source="Al Smith" target="Ronald Reagan" id="37" weight="0.4878742890958813" />
+      <edge source="Al Smith" target="Theodore Roosevelt" id="38" weight="0.41017515790212633" />
+      <edge source="Al Smith" target="Thomas Dewey" id="39" weight="0.41239903708600806" />
+      <edge source="Al Smith" target="Wendell Willkie" id="40" weight="0.5379328946888259" />
+      <edge source="Al Smith" target="William Howard Taft" id="41" weight="0.58408570305398" />
+      <edge source="Al Smith" target="William McKinley" id="42" weight="0.46442708060165455" />
+      <edge source="Al Smith" target="Woodrow Wilson" id="43" weight="0.4697784345949691" />
+      <edge source="Albert Gore, Jr." target="Barack Obama" id="44" weight="0.686373603945948" />
+      <edge source="Albert Gore, Jr." target="Deval Patrick" id="45" weight="0.46641535350703034" />
+      <edge source="Albert Gore, Jr." target="Donald J. Trump (1st Term)" id="46" weight="0.5136716926619026" />
+      <edge source="Albert Gore, Jr." target="Dwight D. Eisenhower" id="47" weight="0.405202635673789" />
+      <edge source="Albert Gore, Jr." target="Elizabeth Warren" id="48" weight="0.6027448263533725" />
+      <edge source="Albert Gore, Jr." target="Franklin D. Roosevelt" id="49" weight="0.47079918314635705" />
+      <edge source="Albert Gore, Jr." target="George Bush" id="50" weight="0.5618601689635402" />
+      <edge source="Albert Gore, Jr." target="George McGovern" id="51" weight="0.44021809715867977" />
+      <edge source="Albert Gore, Jr." target="George W. Bush" id="52" weight="0.7035534342188013" />
+      <edge source="Albert Gore, Jr." target="Gerald R. Ford" id="53" weight="0.4408511436911115" />
+      <edge source="Albert Gore, Jr." target="Herman Cain" id="54" weight="0.4015769605010501" />
+      <edge source="Albert Gore, Jr." target="Hillary Clinton" id="55" weight="0.5589517229746953" />
+      <edge source="Albert Gore, Jr." target="Hubert H. Humphrey" id="56" weight="0.4974172710119792" />
+      <edge source="Albert Gore, Jr." target="Jeb Bush" id="57" weight="0.5375170255868508" />
+      <edge source="Albert Gore, Jr." target="Jimmy Carter" id="58" weight="0.5472260202622203" />
+      <edge source="Albert Gore, Jr." target="John Edwards" id="59" weight="0.40376456335024863" />
+      <edge source="Albert Gore, Jr." target="John F. Kennedy" id="60" weight="0.549120699098696" />
+      <edge source="Albert Gore, Jr." target="John F. Kerry" id="61" weight="0.7292467466578686" />
+      <edge source="Albert Gore, Jr." target="John McCain" id="62" weight="0.4349336102238935" />
+      <edge source="Albert Gore, Jr." target="Joseph R. Biden, Jr." id="63" weight="0.4461953198075041" />
+      <edge source="Albert Gore, Jr." target="Kamala Harris" id="64" weight="0.5177257367208151" />
+      <edge source="Albert Gore, Jr." target="Lyndon B. Johnson" id="65" weight="0.41497983298961494" />
+      <edge source="Albert Gore, Jr." target="Martin O'Malley" id="66" weight="0.6136244436444929" />
+      <edge source="Albert Gore, Jr." target="Michael Bloomberg" id="67" weight="0.4018852744503609" />
+      <edge source="Albert Gore, Jr." target="Michael S. Dukakis" id="68" weight="0.4843224584308379" />
+      <edge source="Albert Gore, Jr." target="Michelle Obama" id="69" weight="0.40261979245008855" />
+      <edge source="Albert Gore, Jr." target="Paul Ryan" id="70" weight="0.4807683390944698" />
+      <edge source="Albert Gore, Jr." target="Richard B. Cheney" id="71" weight="0.5456678613071569" />
+      <edge source="Albert Gore, Jr." target="Richard Nixon" id="72" weight="0.5816278168981301" />
+      <edge source="Albert Gore, Jr." target="Ronald Reagan" id="73" weight="0.5917091528474162" />
+      <edge source="Albert Gore, Jr." target="Tim Kaine" id="74" weight="0.4485867161400357" />
+      <edge source="Albert Gore, Jr." target="Walter F. Mondale" id="75" weight="0.5533739556459879" />
+      <edge source="Albert Gore, Jr." target="Wendell Willkie" id="76" weight="0.4586549025305652" />
+      <edge source="Albert Gore, Jr." target="William J. Clinton" id="77" weight="0.7352279147343695" />
+      <edge source="Alf Landon" target="Calvin Coolidge" id="78" weight="0.4493461811587203" />
+      <edge source="Alf Landon" target="Dwight D. Eisenhower" id="79" weight="0.4481567551770361" />
+      <edge source="Alf Landon" target="Franklin D. Roosevelt" id="80" weight="0.6025519770990105" />
+      <edge source="Alf Landon" target="Herbert Hoover" id="81" weight="0.5776509040297693" />
+      <edge source="Alf Landon" target="Hubert H. Humphrey" id="82" weight="0.45456236023386193" />
+      <edge source="Alf Landon" target="James M. Cox" id="83" weight="0.445454260484662" />
+      <edge source="Alf Landon" target="Jimmy Carter" id="84" weight="0.44743336549704077" />
+      <edge source="Alf Landon" target="John F. Kennedy" id="85" weight="0.41977696777151063" />
+      <edge source="Alf Landon" target="John W. Davis" id="86" weight="0.4866316855163457" />
+      <edge source="Alf Landon" target="Martin O'Malley" id="87" weight="0.4289337300299679" />
+      <edge source="Alf Landon" target="Richard Nixon" id="88" weight="0.4514580021967537" />
+      <edge source="Alf Landon" target="Ronald Reagan" id="89" weight="0.5158196459035731" />
+      <edge source="Alf Landon" target="Thomas Dewey" id="90" weight="0.45954197059866314" />
+      <edge source="Alf Landon" target="Warren G. Harding" id="91" weight="0.42848981055736785" />
+      <edge source="Alf Landon" target="Wendell Willkie" id="92" weight="0.5297265341376581" />
+      <edge source="Alf Landon" target="William Howard Taft" id="93" weight="0.4362754118002175" />
+      <edge source="Alf Landon" target="William McKinley" id="94" weight="0.4228066150567511" />
+      <edge source="Alf Landon" target="Woodrow Wilson" id="95" weight="0.41917556902270653" />
+      <edge source="Barack Obama" target="Barry Goldwater" id="96" weight="0.4051303897391723" />
+      <edge source="Barack Obama" target="Bernie Sanders" id="97" weight="0.44515031108814396" />
+      <edge source="Barack Obama" target="Bill Richardson" id="98" weight="0.44324095591636686" />
+      <edge source="Barack Obama" target="Christopher Dodd" id="99" weight="0.41739643495692974" />
+      <edge source="Barack Obama" target="Deval Patrick" id="100" weight="0.49085135492545107" />
+      <edge source="Barack Obama" target="Donald J. Trump (1st Term)" id="101" weight="0.5710191570022365" />
+      <edge source="Barack Obama" target="Dwight D. Eisenhower" id="102" weight="0.4057334993316163" />
+      <edge source="Barack Obama" target="Elizabeth Warren" id="103" weight="0.6385562321342225" />
+      <edge source="Barack Obama" target="Eric Swalwell" id="104" weight="0.40797676455718584" />
+      <edge source="Barack Obama" target="Franklin D. Roosevelt" id="105" weight="0.49436553338498385" />
+      <edge source="Barack Obama" target="George Bush" id="106" weight="0.5959468677844405" />
+      <edge source="Barack Obama" target="George McGovern" id="107" weight="0.4482481142959596" />
+      <edge source="Barack Obama" target="George W. Bush" id="108" weight="0.618331141771952" />
+      <edge source="Barack Obama" target="Gerald R. Ford" id="109" weight="0.4429356156457466" />
+      <edge source="Barack Obama" target="H. Ross Perot" id="110" weight="0.45115353101813366" />
+      <edge source="Barack Obama" target="Herman Cain" id="111" weight="0.4352019957025757" />
+      <edge source="Barack Obama" target="Hillary Clinton" id="112" weight="0.6938351683468102" />
+      <edge source="Barack Obama" target="Hubert H. Humphrey" id="113" weight="0.48901827627199684" />
+      <edge source="Barack Obama" target="J.D. Vance" id="114" weight="0.43799365629298254" />
+      <edge source="Barack Obama" target="Jack Kemp" id="115" weight="0.400965307133969" />
+      <edge source="Barack Obama" target="Jeb Bush" id="116" weight="0.6016910593962863" />
+      <edge source="Barack Obama" target="Jimmy Carter" id="117" weight="0.5941930332703916" />
+      <edge source="Barack Obama" target="John Edwards" id="118" weight="0.48471512494244506" />
+      <edge source="Barack Obama" target="John F. Kennedy" id="119" weight="0.5474835305425546" />
+      <edge source="Barack Obama" target="John F. Kerry" id="120" weight="0.7561327429487686" />
+      <edge source="Barack Obama" target="John McCain" id="121" weight="0.7326130620735508" />
+      <edge source="Barack Obama" target="Jon Huntsman" id="122" weight="0.43050433784424175" />
+      <edge source="Barack Obama" target="Joseph R. Biden, Jr." id="123" weight="0.5359008726246559" />
+      <edge source="Barack Obama" target="Kamala Harris" id="124" weight="0.40342413897583357" />
+      <edge source="Barack Obama" target="Kirsten Gillibrand" id="125" weight="0.4176630892863127" />
+      <edge source="Barack Obama" target="Lincoln Chafee" id="126" weight="0.4409717013700966" />
+      <edge source="Barack Obama" target="Lyndon B. Johnson" id="127" weight="0.40771056212681567" />
+      <edge source="Barack Obama" target="Marco Rubio" id="128" weight="0.4246596368402193" />
+      <edge source="Barack Obama" target="Martin O'Malley" id="129" weight="0.6473361468985497" />
+      <edge source="Barack Obama" target="Michael Bloomberg" id="130" weight="0.45576499964942846" />
+      <edge source="Barack Obama" target="Michael S. Dukakis" id="131" weight="0.5090924064245059" />
+      <edge source="Barack Obama" target="Michele Bachmann" id="132" weight="0.4382506507813496" />
+      <edge source="Barack Obama" target="Michelle Obama" id="133" weight="0.48824589765464965" />
+      <edge source="Barack Obama" target="Mitt Romney" id="134" weight="0.5332215677456137" />
+      <edge source="Barack Obama" target="Newt Gingrich" id="135" weight="0.41104481465520354" />
+      <edge source="Barack Obama" target="Paul Ryan" id="136" weight="0.5766658773133726" />
+      <edge source="Barack Obama" target="Richard B. Cheney" id="137" weight="0.533541400949922" />
+      <edge source="Barack Obama" target="Richard Nixon" id="138" weight="0.6118402480774021" />
+      <edge source="Barack Obama" target="Rick Perry" id="139" weight="0.48777926381109965" />
+      <edge source="Barack Obama" target="Ronald Reagan" id="140" weight="0.630263475272474" />
+      <edge source="Barack Obama" target="Sarah Palin" id="141" weight="0.5028296272498396" />
+      <edge source="Barack Obama" target="Tim Pawlenty" id="142" weight="0.41771750982501316" />
+      <edge source="Barack Obama" target="Walter F. Mondale" id="143" weight="0.5528873804756522" />
+      <edge source="Barack Obama" target="Wendell Willkie" id="144" weight="0.46392349050242754" />
+      <edge source="Barack Obama" target="William J. Clinton" id="145" weight="0.7036682924565253" />
+      <edge source="Barry Goldwater" target="Dwight D. Eisenhower" id="146" weight="0.46632360795159317" />
+      <edge source="Barry Goldwater" target="Franklin D. Roosevelt" id="147" weight="0.4212553847943072" />
+      <edge source="Barry Goldwater" target="George Bush" id="148" weight="0.4132624346665769" />
+      <edge source="Barry Goldwater" target="George W. Bush" id="149" weight="0.41100486316731044" />
+      <edge source="Barry Goldwater" target="Hubert H. Humphrey" id="150" weight="0.4369280949663072" />
+      <edge source="Barry Goldwater" target="Jimmy Carter" id="151" weight="0.43730033605302376" />
+      <edge source="Barry Goldwater" target="John F. Kennedy" id="152" weight="0.4776837415000931" />
+      <edge source="Barry Goldwater" target="Lyndon B. Johnson" id="153" weight="0.45150768156195586" />
+      <edge source="Barry Goldwater" target="Richard Nixon" id="154" weight="0.5111096910086741" />
+      <edge source="Barry Goldwater" target="Ronald Reagan" id="155" weight="0.49186697436033056" />
+      <edge source="Barry Goldwater" target="Thomas Dewey" id="156" weight="0.4501542450542546" />
+      <edge source="Barry Goldwater" target="Wendell Willkie" id="157" weight="0.42774375311957386" />
+      <edge source="Barry Goldwater" target="William J. Clinton" id="158" weight="0.40857009549715045" />
+      <edge source="Bernie Sanders" target="Donald J. Trump (1st Term)" id="159" weight="0.43910211980042374" />
+      <edge source="Bernie Sanders" target="Elizabeth Warren" id="160" weight="0.4197717577139286" />
+      <edge source="Bernie Sanders" target="Hillary Clinton" id="161" weight="0.505357659121351" />
+      <edge source="Bernie Sanders" target="Martin O'Malley" id="162" weight="0.4214244110611844" />
+      <edge source="Bernie Sanders" target="William J. Clinton" id="163" weight="0.4095823443483158" />
+      <edge source="Bill Richardson" target="Hillary Clinton" id="164" weight="0.40772287554906367" />
+      <edge source="Bill Richardson" target="Jeb Bush" id="165" weight="0.41241713300363336" />
+      <edge source="Bill Richardson" target="Jimmy Carter" id="166" weight="0.4027660056627417" />
+      <edge source="Bill Richardson" target="John F. Kerry" id="167" weight="0.4165274974428532" />
+      <edge source="Bill Richardson" target="Martin O'Malley" id="168" weight="0.426049287862703" />
+      <edge source="Calvin Coolidge" target="Franklin D. Roosevelt" id="169" weight="0.563645139524902" />
+      <edge source="Calvin Coolidge" target="Herbert Hoover" id="170" weight="0.5483628270639213" />
+      <edge source="Calvin Coolidge" target="James M. Cox" id="171" weight="0.442531406334849" />
+      <edge source="Calvin Coolidge" target="Jimmy Carter" id="172" weight="0.42713332754982203" />
+      <edge source="Calvin Coolidge" target="John W. Davis" id="173" weight="0.4069575634180912" />
+      <edge source="Calvin Coolidge" target="Richard Nixon" id="174" weight="0.40409702023088523" />
+      <edge source="Calvin Coolidge" target="Ronald Reagan" id="175" weight="0.46187297002465194" />
+      <edge source="Calvin Coolidge" target="Wendell Willkie" id="176" weight="0.46557335739934064" />
+      <edge source="Calvin Coolidge" target="William Howard Taft" id="177" weight="0.46616913981452457" />
+      <edge source="Calvin Coolidge" target="William McKinley" id="178" weight="0.41118837378599116" />
+      <edge source="Christopher Dodd" target="Richard Nixon" id="179" weight="0.4028365382603846" />
+      <edge source="Deval Patrick" target="Elizabeth Warren" id="180" weight="0.6038245288111601" />
+      <edge source="Deval Patrick" target="Franklin D. Roosevelt" id="181" weight="0.4130570339998933" />
+      <edge source="Deval Patrick" target="George W. Bush" id="182" weight="0.4190012096120536" />
+      <edge source="Deval Patrick" target="Hillary Clinton" id="183" weight="0.4595556420617561" />
+      <edge source="Deval Patrick" target="Jeb Bush" id="184" weight="0.5059516804366934" />
+      <edge source="Deval Patrick" target="Jimmy Carter" id="185" weight="0.48228709002284414" />
+      <edge source="Deval Patrick" target="John F. Kerry" id="186" weight="0.46707627124708834" />
+      <edge source="Deval Patrick" target="Martin O'Malley" id="187" weight="0.5528750652259068" />
+      <edge source="Deval Patrick" target="Michael Bloomberg" id="188" weight="0.40712638988632643" />
+      <edge source="Deval Patrick" target="Ronald Reagan" id="189" weight="0.4487999071768829" />
+      <edge source="Deval Patrick" target="William J. Clinton" id="190" weight="0.41498505784448875" />
+      <edge source="Donald J. Trump (1st Term)" target="Donald J. Trump (2nd Term)" id="191" weight="0.5378963738229257" />
+      <edge source="Donald J. Trump (1st Term)" target="Elizabeth Warren" id="192" weight="0.5005480265494898" />
+      <edge source="Donald J. Trump (1st Term)" target="Franklin D. Roosevelt" id="193" weight="0.4176322958676657" />
+      <edge source="Donald J. Trump (1st Term)" target="George Bush" id="194" weight="0.5204945801667535" />
+      <edge source="Donald J. Trump (1st Term)" target="George W. Bush" id="195" weight="0.5459159112728423" />
+      <edge source="Donald J. Trump (1st Term)" target="H. Ross Perot" id="196" weight="0.4409282389434556" />
+      <edge source="Donald J. Trump (1st Term)" target="Herman Cain" id="197" weight="0.41662556793039957" />
+      <edge source="Donald J. Trump (1st Term)" target="Hillary Clinton" id="198" weight="0.5796710998366847" />
+      <edge source="Donald J. Trump (1st Term)" target="Hubert H. Humphrey" id="199" weight="0.415560724557837" />
+      <edge source="Donald J. Trump (1st Term)" target="J.D. Vance" id="200" weight="0.5755579630385619" />
+      <edge source="Donald J. Trump (1st Term)" target="Jeb Bush" id="201" weight="0.4289287690262498" />
+      <edge source="Donald J. Trump (1st Term)" target="Jimmy Carter" id="202" weight="0.5117587842918255" />
+      <edge source="Donald J. Trump (1st Term)" target="John F. Kennedy" id="203" weight="0.5209688989013251" />
+      <edge source="Donald J. Trump (1st Term)" target="John F. Kerry" id="204" weight="0.5413370188588956" />
+      <edge source="Donald J. Trump (1st Term)" target="Joseph R. Biden, Jr." id="205" weight="0.7483069780721198" />
+      <edge source="Donald J. Trump (1st Term)" target="Kamala Harris" id="206" weight="0.5792132969899402" />
+      <edge source="Donald J. Trump (1st Term)" target="Martin O'Malley" id="207" weight="0.5214743300107495" />
+      <edge source="Donald J. Trump (1st Term)" target="Michael Bloomberg" id="208" weight="0.4363169868217183" />
+      <edge source="Donald J. Trump (1st Term)" target="Michael S. Dukakis" id="209" weight="0.43741131946121214" />
+      <edge source="Donald J. Trump (1st Term)" target="Mike Pence" id="210" weight="0.5111830826779162" />
+      <edge source="Donald J. Trump (1st Term)" target="Paul Ryan" id="211" weight="0.42776727325916786" />
+      <edge source="Donald J. Trump (1st Term)" target="Richard B. Cheney" id="212" weight="0.5353194323245257" />
+      <edge source="Donald J. Trump (1st Term)" target="Richard Nixon" id="213" weight="0.5834518009673798" />
+      <edge source="Donald J. Trump (1st Term)" target="Ron DeSantis" id="214" weight="0.45541311509657717" />
+      <edge source="Donald J. Trump (1st Term)" target="Ronald Reagan" id="215" weight="0.5233052762995264" />
+      <edge source="Donald J. Trump (1st Term)" target="Tim Kaine" id="216" weight="0.541579830293102" />
+      <edge source="Donald J. Trump (1st Term)" target="Tim Walz" id="217" weight="0.4355300801856617" />
+      <edge source="Donald J. Trump (1st Term)" target="Walter F. Mondale" id="218" weight="0.4841810856029117" />
+      <edge source="Donald J. Trump (1st Term)" target="William J. Clinton" id="219" weight="0.6588622020003018" />
+      <edge source="Donald J. Trump (2nd Term)" target="George Bush" id="220" weight="0.4307315381820279" />
+      <edge source="Donald J. Trump (2nd Term)" target="Michael S. Dukakis" id="221" weight="0.4023218741488197" />
+      <edge source="Donald J. Trump (2nd Term)" target="Richard Nixon" id="222" weight="0.4543482881818277" />
+      <edge source="Donald J. Trump (2nd Term)" target="William J. Clinton" id="223" weight="0.4233227179877929" />
+      <edge source="Dwight D. Eisenhower" target="Franklin D. Roosevelt" id="224" weight="0.48975775490856366" />
+      <edge source="Dwight D. Eisenhower" target="George W. Bush" id="225" weight="0.4327197510631101" />
+      <edge source="Dwight D. Eisenhower" target="Gerald R. Ford" id="226" weight="0.4235554718850859" />
+      <edge source="Dwight D. Eisenhower" target="Herbert Hoover" id="227" weight="0.44551194124616306" />
+      <edge source="Dwight D. Eisenhower" target="Hubert H. Humphrey" id="228" weight="0.48111577995787363" />
+      <edge source="Dwight D. Eisenhower" target="Jimmy Carter" id="229" weight="0.41488091806260885" />
+      <edge source="Dwight D. Eisenhower" target="John F. Kennedy" id="230" weight="0.48641054928369926" />
+      <edge source="Dwight D. Eisenhower" target="John F. Kerry" id="231" weight="0.4132807661451797" />
+      <edge source="Dwight D. Eisenhower" target="John W. Davis" id="232" weight="0.4069728198087261" />
+      <edge source="Dwight D. Eisenhower" target="Lyndon B. Johnson" id="233" weight="0.471216972162016" />
+      <edge source="Dwight D. Eisenhower" target="Martin O'Malley" id="234" weight="0.44497244504137035" />
+      <edge source="Dwight D. Eisenhower" target="Richard Nixon" id="235" weight="0.5525599110669849" />
+      <edge source="Dwight D. Eisenhower" target="Ronald Reagan" id="236" weight="0.5270254320197136" />
+      <edge source="Dwight D. Eisenhower" target="Thomas Dewey" id="237" weight="0.48623375261687074" />
+      <edge source="Dwight D. Eisenhower" target="Walter F. Mondale" id="238" weight="0.4158842631453115" />
+      <edge source="Dwight D. Eisenhower" target="Wendell Willkie" id="239" weight="0.473853848337279" />
+      <edge source="Dwight D. Eisenhower" target="William J. Clinton" id="240" weight="0.42827415428946813" />
+      <edge source="Dwight D. Eisenhower" target="Woodrow Wilson" id="241" weight="0.4049545113240826" />
+      <edge source="Elizabeth Warren" target="Franklin D. Roosevelt" id="242" weight="0.518717907240144" />
+      <edge source="Elizabeth Warren" target="George Bush" id="243" weight="0.42757350882344397" />
+      <edge source="Elizabeth Warren" target="George W. Bush" id="244" weight="0.4789940713854943" />
+      <edge source="Elizabeth Warren" target="Herbert Hoover" id="245" weight="0.42504747733642045" />
+      <edge source="Elizabeth Warren" target="Hillary Clinton" id="246" weight="0.5756977375996568" />
+      <edge source="Elizabeth Warren" target="Jeb Bush" id="247" weight="0.5863171939673589" />
+      <edge source="Elizabeth Warren" target="Jimmy Carter" id="248" weight="0.5559845416111732" />
+      <edge source="Elizabeth Warren" target="John Edwards" id="249" weight="0.4113696650435043" />
+      <edge source="Elizabeth Warren" target="John F. Kennedy" id="250" weight="0.44151930929729033" />
+      <edge source="Elizabeth Warren" target="John F. Kerry" id="251" weight="0.595891229341735" />
+      <edge source="Elizabeth Warren" target="Joseph R. Biden, Jr." id="252" weight="0.5072957982096877" />
+      <edge source="Elizabeth Warren" target="Kirsten Gillibrand" id="253" weight="0.4658834769378807" />
+      <edge source="Elizabeth Warren" target="Martin O'Malley" id="254" weight="0.6248259920000363" />
+      <edge source="Elizabeth Warren" target="Michael Bloomberg" id="255" weight="0.5090243532883915" />
+      <edge source="Elizabeth Warren" target="Paul Ryan" id="256" weight="0.43065100295020076" />
+      <edge source="Elizabeth Warren" target="Richard Nixon" id="257" weight="0.471125957156479" />
+      <edge source="Elizabeth Warren" target="Rick Perry" id="258" weight="0.4190211058245726" />
+      <edge source="Elizabeth Warren" target="Ronald Reagan" id="259" weight="0.5450289682637808" />
+      <edge source="Elizabeth Warren" target="Walter F. Mondale" id="260" weight="0.43866555065761104" />
+      <edge source="Elizabeth Warren" target="Wendell Willkie" id="261" weight="0.4158812379592657" />
+      <edge source="Elizabeth Warren" target="William J. Clinton" id="262" weight="0.5257940005232583" />
+      <edge source="Eric Swalwell" target="Martin O'Malley" id="263" weight="0.4147811416625483" />
+      <edge source="Franklin D. Roosevelt" target="George Bush" id="264" weight="0.42802102908752093" />
+      <edge source="Franklin D. Roosevelt" target="George McGovern" id="265" weight="0.4465881654552599" />
+      <edge source="Franklin D. Roosevelt" target="George W. Bush" id="266" weight="0.46565974848987224" />
+      <edge source="Franklin D. Roosevelt" target="Gerald R. Ford" id="267" weight="0.42221205641293147" />
+      <edge source="Franklin D. Roosevelt" target="Herbert Hoover" id="268" weight="0.7505776008928573" />
+      <edge source="Franklin D. Roosevelt" target="Hillary Clinton" id="269" weight="0.4295099056604835" />
+      <edge source="Franklin D. Roosevelt" target="Hubert H. Humphrey" id="270" weight="0.4610443034409523" />
+      <edge source="Franklin D. Roosevelt" target="James M. Cox" id="271" weight="0.5751271690159263" />
+      <edge source="Franklin D. Roosevelt" target="Jeb Bush" id="272" weight="0.47437434943251966" />
+      <edge source="Franklin D. Roosevelt" target="Jimmy Carter" id="273" weight="0.6039811081435664" />
+      <edge source="Franklin D. Roosevelt" target="John F. Kennedy" id="274" weight="0.5679944034132475" />
+      <edge source="Franklin D. Roosevelt" target="John F. Kerry" id="275" weight="0.46602882609377705" />
+      <edge source="Franklin D. Roosevelt" target="John W. Davis" id="276" weight="0.5455754230098953" />
+      <edge source="Franklin D. Roosevelt" target="Lyndon B. Johnson" id="277" weight="0.4437294120441126" />
+      <edge source="Franklin D. Roosevelt" target="Martin O'Malley" id="278" weight="0.53885327319354" />
+      <edge source="Franklin D. Roosevelt" target="Paul Ryan" id="279" weight="0.44972789826909576" />
+      <edge source="Franklin D. Roosevelt" target="Richard Nixon" id="280" weight="0.5926340249795338" />
+      <edge source="Franklin D. Roosevelt" target="Ronald Reagan" id="281" weight="0.6511950641236081" />
+      <edge source="Franklin D. Roosevelt" target="Theodore Roosevelt" id="282" weight="0.4553473070673117" />
+      <edge source="Franklin D. Roosevelt" target="Thomas Dewey" id="283" weight="0.4440917127330118" />
+      <edge source="Franklin D. Roosevelt" target="Walter F. Mondale" id="284" weight="0.44599707367767727" />
+      <edge source="Franklin D. Roosevelt" target="Warren G. Harding" id="285" weight="0.4463578096052273" />
+      <edge source="Franklin D. Roosevelt" target="Wendell Willkie" id="286" weight="0.5951287084540654" />
+      <edge source="Franklin D. Roosevelt" target="William Howard Taft" id="287" weight="0.605051574628038" />
+      <edge source="Franklin D. Roosevelt" target="William J. Clinton" id="288" weight="0.4666411365218955" />
+      <edge source="Franklin D. Roosevelt" target="William McKinley" id="289" weight="0.47163535888247293" />
+      <edge source="Franklin D. Roosevelt" target="Woodrow Wilson" id="290" weight="0.5202847922154608" />
+      <edge source="Fred Thompson" target="Mitt Romney" id="291" weight="0.40567072651539965" />
+      <edge source="George Bush" target="George W. Bush" id="292" weight="0.5945225717541649" />
+      <edge source="George Bush" target="Gerald R. Ford" id="293" weight="0.4472639232832936" />
+      <edge source="George Bush" target="H. Ross Perot" id="294" weight="0.4464692190587507" />
+      <edge source="George Bush" target="Hillary Clinton" id="295" weight="0.5056215875486411" />
+      <edge source="George Bush" target="Hubert H. Humphrey" id="296" weight="0.49099014046793976" />
+      <edge source="George Bush" target="Jack Kemp" id="297" weight="0.4273916010531673" />
+      <edge source="George Bush" target="Jeb Bush" id="298" weight="0.45958552999176877" />
+      <edge source="George Bush" target="Jimmy Carter" id="299" weight="0.5597957519693811" />
+      <edge source="George Bush" target="John F. Kennedy" id="300" weight="0.5233363605517098" />
+      <edge source="George Bush" target="John F. Kerry" id="301" weight="0.61632898479661" />
+      <edge source="George Bush" target="Joseph R. Biden, Jr." id="302" weight="0.40909026060266185" />
+      <edge source="George Bush" target="Kamala Harris" id="303" weight="0.41212142253658746" />
+      <edge source="George Bush" target="Lyndon B. Johnson" id="304" weight="0.4202445131083073" />
+      <edge source="George Bush" target="Martin O'Malley" id="305" weight="0.5147785870454776" />
+      <edge source="George Bush" target="Michael S. Dukakis" id="306" weight="0.5049951861458299" />
+      <edge source="George Bush" target="Patrick J. Buchanan" id="307" weight="0.41956079416107106" />
+      <edge source="George Bush" target="Paul Ryan" id="308" weight="0.4366330334804109" />
+      <edge source="George Bush" target="Richard B. Cheney" id="309" weight="0.5363649585630367" />
+      <edge source="George Bush" target="Richard Nixon" id="310" weight="0.6257880658743287" />
+      <edge source="George Bush" target="Ronald Reagan" id="311" weight="0.602118383710656" />
+      <edge source="George Bush" target="Walter F. Mondale" id="312" weight="0.5658572239589703" />
+      <edge source="George Bush" target="Wendell Willkie" id="313" weight="0.4381277696018418" />
+      <edge source="George Bush" target="William J. Clinton" id="314" weight="0.6180517550418041" />
+      <edge source="George McGovern" target="George W. Bush" id="315" weight="0.46143602301808634" />
+      <edge source="George McGovern" target="Gerald R. Ford" id="316" weight="0.40286122875463004" />
+      <edge source="George McGovern" target="Hubert H. Humphrey" id="317" weight="0.5202401678539295" />
+      <edge source="George McGovern" target="Jimmy Carter" id="318" weight="0.4323144258168556" />
+      <edge source="George McGovern" target="John F. Kennedy" id="319" weight="0.44791317386552865" />
+      <edge source="George McGovern" target="John F. Kerry" id="320" weight="0.467892234279095" />
+      <edge source="George McGovern" target="Lyndon B. Johnson" id="321" weight="0.425225142892938" />
+      <edge source="George McGovern" target="Martin O'Malley" id="322" weight="0.4545159057769668" />
+      <edge source="George McGovern" target="Michael S. Dukakis" id="323" weight="0.4013542625012074" />
+      <edge source="George McGovern" target="Richard Nixon" id="324" weight="0.4790456895005131" />
+      <edge source="George McGovern" target="Ronald Reagan" id="325" weight="0.5254721173262428" />
+      <edge source="George McGovern" target="Walter F. Mondale" id="326" weight="0.42851635914994646" />
+      <edge source="George McGovern" target="Wendell Willkie" id="327" weight="0.4392151255096857" />
+      <edge source="George McGovern" target="William J. Clinton" id="328" weight="0.4428588533210975" />
+      <edge source="George W. Bush" target="Gerald R. Ford" id="329" weight="0.4878451053662502" />
+      <edge source="George W. Bush" target="H. Ross Perot" id="330" weight="0.418996650401272" />
+      <edge source="George W. Bush" target="Herman Cain" id="331" weight="0.41830295250002403" />
+      <edge source="George W. Bush" target="Hillary Clinton" id="332" weight="0.521673807867041" />
+      <edge source="George W. Bush" target="Hubert H. Humphrey" id="333" weight="0.5471666666702789" />
+      <edge source="George W. Bush" target="J.D. Vance" id="334" weight="0.4316639300876076" />
+      <edge source="George W. Bush" target="Jack Kemp" id="335" weight="0.4274658643512451" />
+      <edge source="George W. Bush" target="Jeb Bush" id="336" weight="0.5331906580859037" />
+      <edge source="George W. Bush" target="Jimmy Carter" id="337" weight="0.5299326534415076" />
+      <edge source="George W. Bush" target="John F. Kennedy" id="338" weight="0.6149255498994038" />
+      <edge source="George W. Bush" target="John F. Kerry" id="339" weight="0.6610179587082107" />
+      <edge source="George W. Bush" target="Joseph Lieberman" id="340" weight="0.4580425149967694" />
+      <edge source="George W. Bush" target="Joseph R. Biden, Jr." id="341" weight="0.43742007016632073" />
+      <edge source="George W. Bush" target="Kamala Harris" id="342" weight="0.6219988674031557" />
+      <edge source="George W. Bush" target="Lyndon B. Johnson" id="343" weight="0.5191568178302107" />
+      <edge source="George W. Bush" target="Martin O'Malley" id="344" weight="0.5905243805770806" />
+      <edge source="George W. Bush" target="Michael S. Dukakis" id="345" weight="0.49566365681008845" />
+      <edge source="George W. Bush" target="Paul Ryan" id="346" weight="0.4901404233492161" />
+      <edge source="George W. Bush" target="Richard B. Cheney" id="347" weight="0.6752065348739075" />
+      <edge source="George W. Bush" target="Richard Nixon" id="348" weight="0.6263492289321466" />
+      <edge source="George W. Bush" target="Robert Dole" id="349" weight="0.4029997704082624" />
+      <edge source="George W. Bush" target="Ronald Reagan" id="350" weight="0.6086601220793008" />
+      <edge source="George W. Bush" target="Thomas Dewey" id="351" weight="0.41447981721055244" />
+      <edge source="George W. Bush" target="Tim Kaine" id="352" weight="0.5284279616034442" />
+      <edge source="George W. Bush" target="Walter F. Mondale" id="353" weight="0.5791670007669599" />
+      <edge source="George W. Bush" target="Wendell Willkie" id="354" weight="0.4759197287333268" />
+      <edge source="George W. Bush" target="William J. Clinton" id="355" weight="0.7680126030590365" />
+      <edge source="Gerald R. Ford" target="Hubert H. Humphrey" id="356" weight="0.47005426066116995" />
+      <edge source="Gerald R. Ford" target="Jimmy Carter" id="357" weight="0.48231658516646614" />
+      <edge source="Gerald R. Ford" target="John F. Kennedy" id="358" weight="0.4456749196865692" />
+      <edge source="Gerald R. Ford" target="John F. Kerry" id="359" weight="0.49303474696591576" />
+      <edge source="Gerald R. Ford" target="Lyndon B. Johnson" id="360" weight="0.47854471523682535" />
+      <edge source="Gerald R. Ford" target="Martin O'Malley" id="361" weight="0.47362346961859075" />
+      <edge source="Gerald R. Ford" target="Paul Ryan" id="362" weight="0.4013652368237276" />
+      <edge source="Gerald R. Ford" target="Richard Nixon" id="363" weight="0.5295783359117138" />
+      <edge source="Gerald R. Ford" target="Ronald Reagan" id="364" weight="0.5806289986142701" />
+      <edge source="Gerald R. Ford" target="Thomas Dewey" id="365" weight="0.4211746657074635" />
+      <edge source="Gerald R. Ford" target="Walter F. Mondale" id="366" weight="0.5355403382991921" />
+      <edge source="Gerald R. Ford" target="Wendell Willkie" id="367" weight="0.4192224704803258" />
+      <edge source="Gerald R. Ford" target="William J. Clinton" id="368" weight="0.4905004901176495" />
+      <edge source="H. Ross Perot" target="Jimmy Carter" id="369" weight="0.4697494779733221" />
+      <edge source="H. Ross Perot" target="John F. Kennedy" id="370" weight="0.41820275779595745" />
+      <edge source="H. Ross Perot" target="John F. Kerry" id="371" weight="0.40758342723822505" />
+      <edge source="H. Ross Perot" target="Martin O'Malley" id="372" weight="0.43363075468449885" />
+      <edge source="H. Ross Perot" target="Richard Nixon" id="373" weight="0.5162648188876032" />
+      <edge source="H. Ross Perot" target="Ronald Reagan" id="374" weight="0.4814011164975634" />
+      <edge source="H. Ross Perot" target="Walter F. Mondale" id="375" weight="0.44296590285302523" />
+      <edge source="H. Ross Perot" target="Wendell Willkie" id="376" weight="0.4053274285807936" />
+      <edge source="H. Ross Perot" target="William J. Clinton" id="377" weight="0.4792753205844745" />
+      <edge source="Harry S Truman" target="John F. Kennedy" id="378" weight="0.41300947219841666" />
+      <edge source="Herbert Hoover" target="James M. Cox" id="379" weight="0.5186902457224846" />
+      <edge source="Herbert Hoover" target="Jimmy Carter" id="380" weight="0.5021314337243687" />
+      <edge source="Herbert Hoover" target="John F. Kennedy" id="381" weight="0.467910797133311" />
+      <edge source="Herbert Hoover" target="John W. Davis" id="382" weight="0.503491071860841" />
+      <edge source="Herbert Hoover" target="Martin O'Malley" id="383" weight="0.45578963303281955" />
+      <edge source="Herbert Hoover" target="Richard Nixon" id="384" weight="0.4795372637220921" />
+      <edge source="Herbert Hoover" target="Ronald Reagan" id="385" weight="0.5639576520557542" />
+      <edge source="Herbert Hoover" target="Theodore Roosevelt" id="386" weight="0.4335323125587867" />
+      <edge source="Herbert Hoover" target="Thomas Dewey" id="387" weight="0.4249730067541013" />
+      <edge source="Herbert Hoover" target="Warren G. Harding" id="388" weight="0.4771404720695069" />
+      <edge source="Herbert Hoover" target="Wendell Willkie" id="389" weight="0.5308758705001622" />
+      <edge source="Herbert Hoover" target="William Howard Taft" id="390" weight="0.558015168926756" />
+      <edge source="Herbert Hoover" target="William McKinley" id="391" weight="0.46248447770096035" />
+      <edge source="Herbert Hoover" target="Woodrow Wilson" id="392" weight="0.48097434682347207" />
+      <edge source="Herman Cain" target="Michele Bachmann" id="393" weight="0.40078375379935144" />
+      <edge source="Herman Cain" target="Richard B. Cheney" id="394" weight="0.40376700161575124" />
+      <edge source="Herman Cain" target="Richard Nixon" id="395" weight="0.4135160608361044" />
+      <edge source="Herman Cain" target="Ronald Reagan" id="396" weight="0.4194527250481821" />
+      <edge source="Herman Cain" target="William J. Clinton" id="397" weight="0.47333612759945864" />
+      <edge source="Hillary Clinton" target="Jeb Bush" id="398" weight="0.556231468780643" />
+      <edge source="Hillary Clinton" target="Jimmy Carter" id="399" weight="0.5170854246043397" />
+      <edge source="Hillary Clinton" target="John Edwards" id="400" weight="0.44347573483103436" />
+      <edge source="Hillary Clinton" target="John F. Kennedy" id="401" weight="0.484996275933166" />
+      <edge source="Hillary Clinton" target="John F. Kerry" id="402" weight="0.6044277167071873" />
+      <edge source="Hillary Clinton" target="John McCain" id="403" weight="0.4864194125087969" />
+      <edge source="Hillary Clinton" target="Joseph R. Biden, Jr." id="404" weight="0.5039753727234403" />
+      <edge source="Hillary Clinton" target="Marco Rubio" id="405" weight="0.4050839073568615" />
+      <edge source="Hillary Clinton" target="Martin O'Malley" id="406" weight="0.5606311908387466" />
+      <edge source="Hillary Clinton" target="Michael Bloomberg" id="407" weight="0.4382055253600058" />
+      <edge source="Hillary Clinton" target="Michael S. Dukakis" id="408" weight="0.4272272175703522" />
+      <edge source="Hillary Clinton" target="Mitt Romney" id="409" weight="0.43717749069118295" />
+      <edge source="Hillary Clinton" target="Patrick J. Buchanan" id="410" weight="0.4316533011535915" />
+      <edge source="Hillary Clinton" target="Paul Ryan" id="411" weight="0.4373581894206092" />
+      <edge source="Hillary Clinton" target="Richard B. Cheney" id="412" weight="0.44938729067095307" />
+      <edge source="Hillary Clinton" target="Richard Nixon" id="413" weight="0.5171947780899385" />
+      <edge source="Hillary Clinton" target="Rick Perry" id="414" weight="0.4140138986351412" />
+      <edge source="Hillary Clinton" target="Ronald Reagan" id="415" weight="0.5158927692467619" />
+      <edge source="Hillary Clinton" target="Scott Walker" id="416" weight="0.4235513510292203" />
+      <edge source="Hillary Clinton" target="Tim Kaine" id="417" weight="0.4713754276988868" />
+      <edge source="Hillary Clinton" target="Walter F. Mondale" id="418" weight="0.4556463018811298" />
+      <edge source="Hillary Clinton" target="William J. Clinton" id="419" weight="0.6188295071353637" />
+      <edge source="Hubert H. Humphrey" target="Jack Kemp" id="420" weight="0.4237196268946379" />
+      <edge source="Hubert H. Humphrey" target="Jimmy Carter" id="421" weight="0.4489741141655241" />
+      <edge source="Hubert H. Humphrey" target="John F. Kennedy" id="422" weight="0.5059987945553208" />
+      <edge source="Hubert H. Humphrey" target="John F. Kerry" id="423" weight="0.5360553369464577" />
+      <edge source="Hubert H. Humphrey" target="John W. Davis" id="424" weight="0.4115653734909141" />
+      <edge source="Hubert H. Humphrey" target="Lyndon B. Johnson" id="425" weight="0.5610472167526371" />
+      <edge source="Hubert H. Humphrey" target="Martin O'Malley" id="426" weight="0.5031676480389037" />
+      <edge source="Hubert H. Humphrey" target="Michael S. Dukakis" id="427" weight="0.4574315920891468" />
+      <edge source="Hubert H. Humphrey" target="Paul Ryan" id="428" weight="0.4119193959168248" />
+      <edge source="Hubert H. Humphrey" target="Richard Nixon" id="429" weight="0.5957072459995085" />
+      <edge source="Hubert H. Humphrey" target="Ronald Reagan" id="430" weight="0.5794345909080773" />
+      <edge source="Hubert H. Humphrey" target="Thomas Dewey" id="431" weight="0.4820315031073456" />
+      <edge source="Hubert H. Humphrey" target="Walter F. Mondale" id="432" weight="0.5314030245753291" />
+      <edge source="Hubert H. Humphrey" target="Wendell Willkie" id="433" weight="0.5135848102166606" />
+      <edge source="Hubert H. Humphrey" target="William J. Clinton" id="434" weight="0.5310524021375597" />
+      <edge source="J.D. Vance" target="John F. Kerry" id="435" weight="0.47115663529766016" />
+      <edge source="J.D. Vance" target="Joseph R. Biden, Jr." id="436" weight="0.5057626629745793" />
+      <edge source="J.D. Vance" target="Martin O'Malley" id="437" weight="0.4630150333441971" />
+      <edge source="J.D. Vance" target="Michael S. Dukakis" id="438" weight="0.4224870254069912" />
+      <edge source="J.D. Vance" target="Richard Nixon" id="439" weight="0.4404565916865998" />
+      <edge source="J.D. Vance" target="Ronald Reagan" id="440" weight="0.43452278209306316" />
+      <edge source="J.D. Vance" target="Walter F. Mondale" id="441" weight="0.4418391144402901" />
+      <edge source="J.D. Vance" target="William J. Clinton" id="442" weight="0.4564718371653353" />
+      <edge source="Jack Kemp" target="John F. Kerry" id="443" weight="0.44377273775732" />
+      <edge source="Jack Kemp" target="Lyndon B. Johnson" id="444" weight="0.40142980673407685" />
+      <edge source="Jack Kemp" target="Richard Nixon" id="445" weight="0.4626538067124061" />
+      <edge source="Jack Kemp" target="Robert Dole" id="446" weight="0.504887303891522" />
+      <edge source="Jack Kemp" target="Ronald Reagan" id="447" weight="0.4565304794161793" />
+      <edge source="Jack Kemp" target="Walter F. Mondale" id="448" weight="0.44339423851209264" />
+      <edge source="Jack Kemp" target="William J. Clinton" id="449" weight="0.4274151435428185" />
+      <edge source="James M. Cox" target="Jimmy Carter" id="450" weight="0.40070299034989953" />
+      <edge source="James M. Cox" target="John W. Davis" id="451" weight="0.4806529572670576" />
+      <edge source="James M. Cox" target="Richard Nixon" id="452" weight="0.42500443593764686" />
+      <edge source="James M. Cox" target="Ronald Reagan" id="453" weight="0.45672535375014955" />
+      <edge source="James M. Cox" target="Thomas Dewey" id="454" weight="0.4072289747581889" />
+      <edge source="James M. Cox" target="Warren G. Harding" id="455" weight="0.44661840210591264" />
+      <edge source="James M. Cox" target="Wendell Willkie" id="456" weight="0.44848013267804526" />
+      <edge source="James M. Cox" target="William Howard Taft" id="457" weight="0.47463442307925585" />
+      <edge source="James M. Cox" target="Woodrow Wilson" id="458" weight="0.42350630678936624" />
+      <edge source="Jeb Bush" target="Jimmy Carter" id="459" weight="0.5470241115615513" />
+      <edge source="Jeb Bush" target="John F. Kennedy" id="460" weight="0.4360120241962848" />
+      <edge source="Jeb Bush" target="John F. Kerry" id="461" weight="0.5906789221056093" />
+      <edge source="Jeb Bush" target="John McCain" id="462" weight="0.43999569679463846" />
+      <edge source="Jeb Bush" target="Joseph R. Biden, Jr." id="463" weight="0.4305157323828749" />
+      <edge source="Jeb Bush" target="Martin O'Malley" id="464" weight="0.5559402998307554" />
+      <edge source="Jeb Bush" target="Mitt Romney" id="465" weight="0.4576765398587739" />
+      <edge source="Jeb Bush" target="Paul Ryan" id="466" weight="0.4480600772022197" />
+      <edge source="Jeb Bush" target="Richard B. Cheney" id="467" weight="0.4215439290503075" />
+      <edge source="Jeb Bush" target="Richard Nixon" id="468" weight="0.45637978982784605" />
+      <edge source="Jeb Bush" target="Rick Perry" id="469" weight="0.4786593391899385" />
+      <edge source="Jeb Bush" target="Ronald Reagan" id="470" weight="0.5478103600652423" />
+      <edge source="Jeb Bush" target="Walter F. Mondale" id="471" weight="0.40410621700541527" />
+      <edge source="Jeb Bush" target="William J. Clinton" id="472" weight="0.49087654467534686" />
+      <edge source="Jimmy Carter" target="John F. Kennedy" id="473" weight="0.6164852428373244" />
+      <edge source="Jimmy Carter" target="John F. Kerry" id="474" weight="0.5401158804513129" />
+      <edge source="Jimmy Carter" target="John McCain" id="475" weight="0.40147850801541857" />
+      <edge source="Jimmy Carter" target="Joseph R. Biden, Jr." id="476" weight="0.42647572410468254" />
+      <edge source="Jimmy Carter" target="Lyndon B. Johnson" id="477" weight="0.41185279184941226" />
+      <edge source="Jimmy Carter" target="Martin O'Malley" id="478" weight="0.5781235964839032" />
+      <edge source="Jimmy Carter" target="Michael S. Dukakis" id="479" weight="0.43730596218018103" />
+      <edge source="Jimmy Carter" target="Mitt Romney" id="480" weight="0.4213743490856954" />
+      <edge source="Jimmy Carter" target="Paul Ryan" id="481" weight="0.48091422074365403" />
+      <edge source="Jimmy Carter" target="Richard B. Cheney" id="482" weight="0.4841231376098498" />
+      <edge source="Jimmy Carter" target="Richard Nixon" id="483" weight="0.6374288039863675" />
+      <edge source="Jimmy Carter" target="Rick Perry" id="484" weight="0.41265525646646695" />
+      <edge source="Jimmy Carter" target="Ronald Reagan" id="485" weight="0.7485674327226479" />
+      <edge source="Jimmy Carter" target="Walter F. Mondale" id="486" weight="0.5618350138103722" />
+      <edge source="Jimmy Carter" target="Wendell Willkie" id="487" weight="0.48520049293654044" />
+      <edge source="Jimmy Carter" target="William J. Clinton" id="488" weight="0.5777806656823463" />
+      <edge source="John Edwards" target="John F. Kerry" id="489" weight="0.5050996458975737" />
+      <edge source="John Edwards" target="William J. Clinton" id="490" weight="0.4021093896892291" />
+      <edge source="John F. Kennedy" target="John F. Kerry" id="491" weight="0.5050239626736045" />
+      <edge source="John F. Kennedy" target="John W. Davis" id="492" weight="0.4076482126115283" />
+      <edge source="John F. Kennedy" target="Joseph Lieberman" id="493" weight="0.4014171909266796" />
+      <edge source="John F. Kennedy" target="Joseph R. Biden, Jr." id="494" weight="0.41014413526789895" />
+      <edge source="John F. Kennedy" target="Kamala Harris" id="495" weight="0.5335002281694189" />
+      <edge source="John F. Kennedy" target="Lyndon B. Johnson" id="496" weight="0.5311809743398918" />
+      <edge source="John F. Kennedy" target="Martin O'Malley" id="497" weight="0.5449462931125332" />
+      <edge source="John F. Kennedy" target="Michael S. Dukakis" id="498" weight="0.44725632904915863" />
+      <edge source="John F. Kennedy" target="Paul Ryan" id="499" weight="0.41221767006224175" />
+      <edge source="John F. Kennedy" target="Richard B. Cheney" id="500" weight="0.5926158845634821" />
+      <edge source="John F. Kennedy" target="Richard Nixon" id="501" weight="0.7548009871631325" />
+      <edge source="John F. Kennedy" target="Ronald Reagan" id="502" weight="0.6215546528983291" />
+      <edge source="John F. Kennedy" target="Thomas Dewey" id="503" weight="0.42766375573191817" />
+      <edge source="John F. Kennedy" target="Tim Kaine" id="504" weight="0.45852582570327644" />
+      <edge source="John F. Kennedy" target="Walter F. Mondale" id="505" weight="0.5000526602292549" />
+      <edge source="John F. Kennedy" target="Wendell Willkie" id="506" weight="0.5120996735997436" />
+      <edge source="John F. Kennedy" target="William J. Clinton" id="507" weight="0.6307357023650971" />
+      <edge source="John F. Kerry" target="John McCain" id="508" weight="0.45207892836479413" />
+      <edge source="John F. Kerry" target="Jon Huntsman" id="509" weight="0.423210094712351" />
+      <edge source="John F. Kerry" target="Joseph R. Biden, Jr." id="510" weight="0.5151186406136432" />
+      <edge source="John F. Kerry" target="Kamala Harris" id="511" weight="0.40000876032835314" />
+      <edge source="John F. Kerry" target="Lincoln Chafee" id="512" weight="0.4202692477005882" />
+      <edge source="John F. Kerry" target="Lyndon B. Johnson" id="513" weight="0.4341410670176348" />
+      <edge source="John F. Kerry" target="Martin O'Malley" id="514" weight="0.638104830928218" />
+      <edge source="John F. Kerry" target="Michael Bloomberg" id="515" weight="0.4385886870338064" />
+      <edge source="John F. Kerry" target="Michael S. Dukakis" id="516" weight="0.5544848588613184" />
+      <edge source="John F. Kerry" target="Michelle Obama" id="517" weight="0.4327961824753326" />
+      <edge source="John F. Kerry" target="Mitt Romney" id="518" weight="0.42788270995266914" />
+      <edge source="John F. Kerry" target="Patrick J. Buchanan" id="519" weight="0.4606891806776408" />
+      <edge source="John F. Kerry" target="Paul Ryan" id="520" weight="0.5272072596973649" />
+      <edge source="John F. Kerry" target="Richard B. Cheney" id="521" weight="0.5588335922870795" />
+      <edge source="John F. Kerry" target="Richard Nixon" id="522" weight="0.6348188116573139" />
+      <edge source="John F. Kerry" target="Rick Perry" id="523" weight="0.454422986324731" />
+      <edge source="John F. Kerry" target="Ronald Reagan" id="524" weight="0.6611869925781658" />
+      <edge source="John F. Kerry" target="Thomas Dewey" id="525" weight="0.41261702122649674" />
+      <edge source="John F. Kerry" target="Walter F. Mondale" id="526" weight="0.6217263493625262" />
+      <edge source="John F. Kerry" target="Wendell Willkie" id="527" weight="0.4934872695966713" />
+      <edge source="John F. Kerry" target="William J. Clinton" id="528" weight="0.7000478790333985" />
+      <edge source="John McCain" target="Joseph Lieberman" id="529" weight="0.5634813993075515" />
+      <edge source="John McCain" target="Martin O'Malley" id="530" weight="0.4146293563594328" />
+      <edge source="John McCain" target="Mitt Romney" id="531" weight="0.46337600959238207" />
+      <edge source="John McCain" target="Ronald Reagan" id="532" weight="0.42247971517848876" />
+      <edge source="John McCain" target="Sarah Palin" id="533" weight="0.5688056811975867" />
+      <edge source="John McCain" target="William J. Clinton" id="534" weight="0.4437177840277131" />
+      <edge source="John W. Davis" target="Lyndon B. Johnson" id="535" weight="0.4057557184645235" />
+      <edge source="John W. Davis" target="Richard Nixon" id="536" weight="0.4142927114182776" />
+      <edge source="John W. Davis" target="Ronald Reagan" id="537" weight="0.442585335945057" />
+      <edge source="John W. Davis" target="Thomas Dewey" id="538" weight="0.40980630389804273" />
+      <edge source="John W. Davis" target="Wendell Willkie" id="539" weight="0.4656663963282967" />
+      <edge source="John W. Davis" target="William Howard Taft" id="540" weight="0.44152296291106385" />
+      <edge source="John W. Davis" target="Woodrow Wilson" id="541" weight="0.41992319661125876" />
+      <edge source="Jon Huntsman" target="Martin O'Malley" id="542" weight="0.4093752759592173" />
+      <edge source="Jon Huntsman" target="Mitt Romney" id="543" weight="0.47088932771261605" />
+      <edge source="Jon Huntsman" target="Paul Ryan" id="544" weight="0.4209653380234688" />
+      <edge source="Jon Huntsman" target="Rick Perry" id="545" weight="0.40769440793194506" />
+      <edge source="Jon Huntsman" target="Ronald Reagan" id="546" weight="0.41527342649105026" />
+      <edge source="Joseph Lieberman" target="Kamala Harris" id="547" weight="0.5029853756839626" />
+      <edge source="Joseph Lieberman" target="Richard B. Cheney" id="548" weight="0.4828826008912584" />
+      <edge source="Joseph Lieberman" target="Tim Kaine" id="549" weight="0.4634154031705795" />
+      <edge source="Joseph Lieberman" target="William J. Clinton" id="550" weight="0.479732803730499" />
+      <edge source="Joseph R. Biden, Jr." target="Kamala Harris" id="551" weight="0.43077563052181944" />
+      <edge source="Joseph R. Biden, Jr." target="Martin O'Malley" id="552" weight="0.48168012335948907" />
+      <edge source="Joseph R. Biden, Jr." target="Michael Bloomberg" id="553" weight="0.41291481785766476" />
+      <edge source="Joseph R. Biden, Jr." target="Mike Pence" id="554" weight="0.4495145203543162" />
+      <edge source="Joseph R. Biden, Jr." target="Richard B. Cheney" id="555" weight="0.42191874661310047" />
+      <edge source="Joseph R. Biden, Jr." target="Richard Nixon" id="556" weight="0.43899645547776345" />
+      <edge source="Joseph R. Biden, Jr." target="Ronald Reagan" id="557" weight="0.4387283954213063" />
+      <edge source="Joseph R. Biden, Jr." target="Tim Scott" id="558" weight="0.4129447462475899" />
+      <edge source="Joseph R. Biden, Jr." target="Walter F. Mondale" id="559" weight="0.4060439948073929" />
+      <edge source="Joseph R. Biden, Jr." target="William J. Clinton" id="560" weight="0.4798631918796221" />
+      <edge source="Kamala Harris" target="Richard B. Cheney" id="561" weight="0.7210363698886585" />
+      <edge source="Kamala Harris" target="Richard Nixon" id="562" weight="0.46589562089635717" />
+      <edge source="Kamala Harris" target="Tim Kaine" id="563" weight="0.6860241473130033" />
+      <edge source="Kamala Harris" target="Tim Walz" id="564" weight="0.4285054322087931" />
+      <edge source="Kamala Harris" target="William J. Clinton" id="565" weight="0.6372887718617154" />
+      <edge source="Lincoln Chafee" target="Richard Nixon" id="566" weight="0.43562909069368383" />
+      <edge source="Lincoln Chafee" target="Ronald Reagan" id="567" weight="0.4214299300999222" />
+      <edge source="Lyndon B. Johnson" target="Martin O'Malley" id="568" weight="0.4466716068423452" />
+      <edge source="Lyndon B. Johnson" target="Richard Nixon" id="569" weight="0.5721765364602114" />
+      <edge source="Lyndon B. Johnson" target="Ronald Reagan" id="570" weight="0.5320731294237651" />
+      <edge source="Lyndon B. Johnson" target="Thomas Dewey" id="571" weight="0.45595130397689104" />
+      <edge source="Lyndon B. Johnson" target="Walter F. Mondale" id="572" weight="0.4921872129168999" />
+      <edge source="Lyndon B. Johnson" target="Wendell Willkie" id="573" weight="0.45931707872448607" />
+      <edge source="Lyndon B. Johnson" target="William J. Clinton" id="574" weight="0.47767481267549505" />
+      <edge source="Martin O'Malley" target="Michael Bloomberg" id="575" weight="0.47763171347625216" />
+      <edge source="Martin O'Malley" target="Michael S. Dukakis" id="576" weight="0.493624746651951" />
+      <edge source="Martin O'Malley" target="Mitt Romney" id="577" weight="0.4073608014835576" />
+      <edge source="Martin O'Malley" target="Paul Ryan" id="578" weight="0.5091735334943689" />
+      <edge source="Martin O'Malley" target="Richard B. Cheney" id="579" weight="0.42496938959408864" />
+      <edge source="Martin O'Malley" target="Richard Nixon" id="580" weight="0.5740639201558161" />
+      <edge source="Martin O'Malley" target="Rick Perry" id="581" weight="0.4316530472610937" />
+      <edge source="Martin O'Malley" target="Ronald Reagan" id="582" weight="0.6154650096656716" />
+      <edge source="Martin O'Malley" target="Walter F. Mondale" id="583" weight="0.5461607720853439" />
+      <edge source="Martin O'Malley" target="Wendell Willkie" id="584" weight="0.4908526646132967" />
+      <edge source="Martin O'Malley" target="William J. Clinton" id="585" weight="0.6086226797802133" />
+      <edge source="Michael S. Dukakis" target="Richard Nixon" id="586" weight="0.5221465695945052" />
+      <edge source="Michael S. Dukakis" target="Ronald Reagan" id="587" weight="0.5140567124484605" />
+      <edge source="Michael S. Dukakis" target="Walter F. Mondale" id="588" weight="0.5153815519467028" />
+      <edge source="Michael S. Dukakis" target="William J. Clinton" id="589" weight="0.5411219432058145" />
+      <edge source="Michele Bachmann" target="Mitt Romney" id="590" weight="0.41035199573219694" />
+      <edge source="Michele Bachmann" target="Newt Gingrich" id="591" weight="0.4747066578718721" />
+      <edge source="Michele Bachmann" target="Rick Perry" id="592" weight="0.4209808691561961" />
+      <edge source="Michelle Obama" target="William J. Clinton" id="593" weight="0.45805223904627645" />
+      <edge source="Mitt Romney" target="Newt Gingrich" id="594" weight="0.4412873099126457" />
+      <edge source="Mitt Romney" target="Paul Ryan" id="595" weight="0.7313234023518109" />
+      <edge source="Mitt Romney" target="Rick Perry" id="596" weight="0.56135115342956" />
+      <edge source="Mitt Romney" target="Rick Santorum" id="597" weight="0.5291274693364036" />
+      <edge source="Mitt Romney" target="Ronald Reagan" id="598" weight="0.41132596732808174" />
+      <edge source="Mitt Romney" target="William J. Clinton" id="599" weight="0.4430765903927807" />
+      <edge source="Nikki Haley" target="Ron DeSantis" id="600" weight="0.47762604520462004" />
+      <edge source="Patrick J. Buchanan" target="Richard Nixon" id="601" weight="0.40882489184138504" />
+      <edge source="Patrick J. Buchanan" target="Walter F. Mondale" id="602" weight="0.40818421915931874" />
+      <edge source="Paul Ryan" target="Richard Nixon" id="603" weight="0.49347415627058866" />
+      <edge source="Paul Ryan" target="Rick Perry" id="604" weight="0.465083588058336" />
+      <edge source="Paul Ryan" target="Rick Santorum" id="605" weight="0.4033122151537686" />
+      <edge source="Paul Ryan" target="Ronald Reagan" id="606" weight="0.5416043503445047" />
+      <edge source="Paul Ryan" target="Walter F. Mondale" id="607" weight="0.4502656549553701" />
+      <edge source="Paul Ryan" target="Wendell Willkie" id="608" weight="0.4291042263834911" />
+      <edge source="Paul Ryan" target="William J. Clinton" id="609" weight="0.5347477447249228" />
+      <edge source="Rand Paul" target="Ron Paul" id="610" weight="0.6154467033695438" />
+      <edge source="Richard B. Cheney" target="Richard Nixon" id="611" weight="0.5564988984511344" />
+      <edge source="Richard B. Cheney" target="Robert Dole" id="612" weight="0.4021764540276995" />
+      <edge source="Richard B. Cheney" target="Ronald Reagan" id="613" weight="0.4898659301028874" />
+      <edge source="Richard B. Cheney" target="Tim Kaine" id="614" weight="0.5558896704755363" />
+      <edge source="Richard B. Cheney" target="Walter F. Mondale" id="615" weight="0.43452613935694134" />
+      <edge source="Richard B. Cheney" target="William J. Clinton" id="616" weight="0.6924240147609032" />
+      <edge source="Richard Nixon" target="Ronald Reagan" id="617" weight="0.7282529147078671" />
+      <edge source="Richard Nixon" target="Thomas Dewey" id="618" weight="0.49208388916113516" />
+      <edge source="Richard Nixon" target="Walter F. Mondale" id="619" weight="0.6132320665551417" />
+      <edge source="Richard Nixon" target="Warren G. Harding" id="620" weight="0.4097929483636728" />
+      <edge source="Richard Nixon" target="Wendell Willkie" id="621" weight="0.5745667067822015" />
+      <edge source="Richard Nixon" target="William J. Clinton" id="622" weight="0.6757837958169339" />
+      <edge source="Richard Nixon" target="Woodrow Wilson" id="623" weight="0.40574442795275417" />
+      <edge source="Rick Perry" target="Rick Santorum" id="624" weight="0.42962322423652505" />
+      <edge source="Rick Perry" target="Ronald Reagan" id="625" weight="0.4333122042579136" />
+      <edge source="Robert Dole" target="William J. Clinton" id="626" weight="0.439165783691751" />
+      <edge source="Ronald Reagan" target="Thomas Dewey" id="627" weight="0.5086568690966152" />
+      <edge source="Ronald Reagan" target="Walter F. Mondale" id="628" weight="0.6659387853423236" />
+      <edge source="Ronald Reagan" target="Warren G. Harding" id="629" weight="0.44678731341147343" />
+      <edge source="Ronald Reagan" target="Wendell Willkie" id="630" weight="0.5983872856880077" />
+      <edge source="Ronald Reagan" target="William J. Clinton" id="631" weight="0.6363139209582888" />
+      <edge source="Ronald Reagan" target="Woodrow Wilson" id="632" weight="0.4247210727034308" />
+      <edge source="Sarah Palin" target="William J. Clinton" id="633" weight="0.40848739888266444" />
+      <edge source="Theodore Roosevelt" target="William Howard Taft" id="634" weight="0.4228764263830768" />
+      <edge source="Thomas Dewey" target="Wendell Willkie" id="635" weight="0.5014619140402136" />
+      <edge source="Tim Kaine" target="William J. Clinton" id="636" weight="0.5974443149065848" />
+      <edge source="Tim Ryan" target="Tim Scott" id="637" weight="0.45142479376706257" />
+      <edge source="Tim Walz" target="William J. Clinton" id="638" weight="0.40392767683923675" />
+      <edge source="Walter F. Mondale" target="Wendell Willkie" id="639" weight="0.4737840724006802" />
+      <edge source="Walter F. Mondale" target="William J. Clinton" id="640" weight="0.5984482865335292" />
+      <edge source="Warren G. Harding" target="Wendell Willkie" id="641" weight="0.42023224959284455" />
+      <edge source="Wendell Willkie" target="William Howard Taft" id="642" weight="0.42308205654329045" />
+      <edge source="Wendell Willkie" target="William J. Clinton" id="643" weight="0.4832998571227679" />
+      <edge source="Wendell Willkie" target="Woodrow Wilson" id="644" weight="0.4382132873597617" />
+      <edge source="William Howard Taft" target="William McKinley" id="645" weight="0.4074099190214713" />
+      <edge source="William Howard Taft" target="Woodrow Wilson" id="646" weight="0.4350798912537804" />
+    </edges>
+  </graph>
+</gexf>
