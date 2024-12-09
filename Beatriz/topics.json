@@ -1,0 +1,33 @@
+{
+  "economy": [
+    "economy", "growth", "inflation", "GDP", "market", "recession", "financial", "debt", "taxes", "trade", "investment", "unemployment", "economic recovery", "supply chain", "budget"
+  ],
+  "politics": [
+    "government", "policy", "election", "democracy", "political system", "congress", "senate", "representatives", "legislation", "parties", "political reform", "leadership", "presidency", "administration", "voting"
+  ],
+  "war": [
+    "war", "conflict", "battle", "military", "army", "army", "violence", "tactics", "combat", "invasion", "terrorism", "intervention", "peacekeeping", "strategic", "national security"
+  ],
+  "peace": [
+    "peace", "diplomacy", "reconciliation", "treaty", "negotiation", "international cooperation", "conflict resolution", "armistice", "humanitarian", "accord", "mediation", "stability"
+  ],
+  "social issues": [
+    "healthcare", "education", "poverty", "inequality", "social justice", "discrimination", "race", "gender", "civil rights", "crime", "housing", "welfare", "youth", "disability", "migration"
+  ],
+  "environment": [
+    "environment", "climate change", "sustainability", "pollution", "renewable energy", "carbon emissions", "biodiversity", "conservation", "green energy", "environmental policy", "global warming", "nature", "forests", "ecosystem", "climate crisis"
+  ],
+  "terrorism": [
+    "terrorism", "extremism", "radicalization", "counterterrorism", "terrorist", "security", "jihad", "radical", "ISIS", "Al-Qaeda", "attack", "safety", "national security", "countermeasures", "militant"
+  ],
+  "people and society": [
+    "people", "citizens", "society", "community", "population", "human rights", "freedom", "demographics", "social welfare", "justice", "equality", "minorities", "empowerment", "family", "values"
+  ],
+  "technology": [
+    "technology", "innovation", "digital", "internet", "AI", "artificial intelligence", "automation", "robotics", "data", "cybersecurity", "blockchain", "internet of things", "5G", "technological advancement", "research"
+  ],
+  "international relations": [
+    "international relations", "diplomacy", "foreign policy", "global cooperation", "alliances", "united nations", "embassies", "trade agreements", "foreign affairs", "global security", "human rights", "aid", "foreign relations"
+  ]
+}
+
