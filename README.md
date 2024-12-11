@@ -5,7 +5,7 @@
 This project examines how economic and historical factors shape the themes and sentiments of U.S. presidential speeches using network analysis and NLP techniques.
 
 ## Explainer Notebook
-Python notebook found in [main-notebook.ipynb](main-notebook.ipynb) where all code and analysis were conducted. This notebook consists of the following sections:
+Python notebook found in [explainer_notebook.ipynb](explainer_notebook.ipynb) where all code and analysis were conducted. This notebook consists of the following sections:
 
 1. Save And Preprocess Speeches Data
 2. Create Speeches Network
