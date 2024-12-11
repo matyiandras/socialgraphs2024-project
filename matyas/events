@@ -1,0 +1,143 @@
+[
+    {
+      "date": 1787,
+      "event": "Founding Fathers draft Constitution of the United States.",
+      "category": "Positive Developments"
+    },
+    {
+      "date": 1789,
+      "event": "George Washington elected first president of the United States.",
+      "category": "Positive Developments"
+    },
+    {
+      "date": 1794,
+      "event": "Whiskey Rebellion - Uprising over liquor tax quelled by George Washington, asserting federal authority.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1803,
+      "event": "Louisiana Purchase - U.S. acquires vast land from France, expanding territory significantly.",
+      "category": "Positive Developments"
+    },
+    {
+      "date": 1812,
+      "event": "War of 1812 with Britain.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1815,
+      "event": "Battle of New Orleans - Andrew Jackson's victory boosts U.S. morale post-War of 1812.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1823,
+      "event": "Monroe Doctrine - Policy opposing European interference in the Americas articulated by President Monroe.",
+      "category": "Positive Developments"
+    },
+    {
+      "date": 1830,
+      "event": "Era of the Common Man - Andrew Jackson's presidency emphasizes populist democracy but achieves limited reforms.",
+      "category": "Other Significant Events"
+    },
+    {
+      "date": 1848,
+      "event": "Treaty of Guadalupe Hidalgo - Ends Mexican-American War and adds significant territory to U.S.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1854,
+      "event": "Abolitionists establish Republican Party.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 1857,
+      "event": "Dred Scott Decision - Supreme Court ruling fuels tensions over slavery in the lead-up to the Civil War.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 1863,
+      "event": "Battle of Gettysburg - Turning point of the Civil War; Confederate defeat seals their fate.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1865,
+      "event": "Confederates defeated; Thirteenth Amendment abolishes slavery.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 1876,
+      "event": "Battle of the Little Bighorn - Native American victory against U.S. forces; marks the beginning of the end for Native sovereignty.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1886,
+      "event": "Haymarket Affair - Labor protest in Chicago turns violent, impacting the labor movement.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 1896,
+      "event": "Plessy v. Ferguson - Supreme Court upholds 'separate but equal,' legitimizing racial segregation.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 1902,
+      "event": "Breakup of Northern Securities - Antitrust action against a major railroad monopoly under Roosevelt.",
+      "category": "Economic Changes"
+    },
+    {
+      "date": 1915,
+      "event": "Sinking of the Lusitania - German attack on British ship with Americans aboard pushes U.S. towards WWI.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1929,
+      "event": "Stock Market Crash - Financial collapse ushers in the Great Depression.",
+      "category": "Economic Changes"
+    },
+    {
+      "date": 1933,
+      "event": "FDR's First Fireside Chat - Roosevelt addresses the nation during the Great Depression to inspire hope.",
+      "category": "Positive Developments"
+    },
+    {
+      "date": 1945,
+      "event": "Atomic Bombing of Hiroshima and Nagasaki - U.S. ends WWII with nuclear bombings in Japan.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 1954,
+      "event": "U.S. Army–McCarthy Hearings - McCarthyism exposed during televised hearings on communist allegations.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 1968,
+      "event": "Assassination of Martin Luther King Jr. - Civil rights leader's death highlights ongoing struggles for equality.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 1974,
+      "event": "Watergate Scandal - President Nixon resigns after cover-up of break-in is exposed.",
+      "category": "Other Significant Events"
+    },
+    {
+      "date": 1981,
+      "event": "PATCO Strike - Reagan's response weakens unions and sets tone for labor policy.",
+      "category": "Social Struggles"
+    },
+    {
+      "date": 2001,
+      "event": "September 11 Attacks - Terrorist attacks change American foreign and domestic policy.",
+      "category": "Conflicts and Wars"
+    },
+    {
+      "date": 2016,
+      "event": "Election of Donald Trump - Polarizing campaign leads to nationalist rhetoric and major political shifts.",
+      "category": "Other Significant Events"
+    },
+    {
+      "date": 2020,
+      "event": "COVID-19 Pandemic - Global health crisis transforms daily life and governance.",
+      "category": "Other Significant Events"
+    }
+  ]
+  
