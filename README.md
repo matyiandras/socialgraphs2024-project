@@ -21,6 +21,6 @@ Python notebook found in [explainer_notebook.ipynb](explainer_notebook.ipynb) wh
 8. Conclusion
 
 ## Report
-The final PDF report summarizing the findings can be found in [report.pdf](report.pdf).
+The final PDF report summarizing the findings can be found in [report_group31.pdf](report_group31.pdf).
 
 **Authors:** Beatriz Braga, Mátyás András, Leonardo Bassani
